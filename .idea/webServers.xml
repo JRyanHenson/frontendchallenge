@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4dd88bc6-881e-413e-ac9c-7d67e68ef7ff" name="frontendchallenge" url="http://bootcamp-coders.cnm.edu">
+      <webServer id="4dd88bc6-881e-413e-ac9c-7d67e68ef7ff" name="frontendchallenge" url="https://bootcamp-coders.cnm.edu/~jhenson9/frontendchallenge/">
         <fileTransfer host="bootcamp-coders.cnm.edu" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/jhenson9/public_html/frontendchallenge" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
