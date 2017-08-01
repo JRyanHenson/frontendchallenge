@@ -5,3 +5,10 @@ body {
 header {
 
 }
+
+img {
+	border:solid 1px darkgrey;
+}
+.row	{
+	margin-top: 10px;
+}
